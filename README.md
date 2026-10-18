@@ -16,7 +16,7 @@ Take your TXT file and place it directly in the "books" folder. I'd recommend gi
 
 ### Adding a Custom Font
 
-
+(Feature in the Works)
 
 ### Using PlayBook
 
