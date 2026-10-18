@@ -10,7 +10,7 @@
 
 ### Adding Books
 
-To get started, plug in your Playdate into your computer/phone and hold [D-Pad Left] + [Lock Button] + [Menu Button] at the same time for five seconds. This will restart the Playdate and put it into USB mode where the files will then be accessible from your device. From your computer/phone, open the "PLAYDATE" drive and go to "Data", then "fork.playbook.libron", then "books" which will be initially empty.
+To get started, plug in your Playdate into your computer/phone and hold [D-Pad Left] + [Lock Button] + [Menu Button] at the same time for five seconds. This will restart the Playdate and put it into USB mode where the files will then be accessible from your device. From your computer/phone, open the "PLAYDATE" drive and go to "Data", then "fork.playbook.withfonts", then "books" which will be initially empty.
 
 PlayBook doesn't support EPUB books directly because that's difficult for such a tiny device. Instead, you'll need to take your EPUB file and use one of the many EPUB to TXT converters available online. I don't recommend using the TXT files directly from Project Gutenberg as they have too many line breaks, instead grab the EPUB files and convert them to TXT yourself.
 
