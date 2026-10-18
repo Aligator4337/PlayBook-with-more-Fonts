@@ -1,7 +1,7 @@
 name=PlayBook
-author=Idrees Hassan
-description=A delightful ebook reader for the Playdate
-bundleID=com.idreesinc.playbook
-version=2.0
-buildNumber=7
+author=Idreees Hansen (forked by Aligator4337)
+description=A delightful ebook reader for the Playdate with custom Font support
+bundleID=fork.playbook.withfonts
+version=0.1
+buildNumber=1
 imagePath=images/launcher
