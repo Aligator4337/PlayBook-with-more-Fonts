@@ -1,4 +1,6 @@
-# Playbook Libron
+# DISCLAIMER: THIS PROJECT IS NOT IN A WORKING STATE YET DO NOT USE IT
+
+# Playbook with more Fonts
 ## A powerful and flexible ebook reader for the Playdate console.
 ### Now with more font support!
 ##### Get the Original with out Libron: 
